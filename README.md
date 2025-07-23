@@ -16,7 +16,7 @@
 
 1. Clone the repository:
     
-    git clone 
+    git clone https://github.com/AshutoshT07-cyber/cnn-chess-ai/blob/main/Chess_Ai_.ipynb
     cd CNN-based-CHESS-AI
     
 
